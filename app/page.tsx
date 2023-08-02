@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { ComboboxDemo } from "../components/ui/combobox";
 
 export default function Home() {
